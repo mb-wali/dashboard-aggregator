@@ -27,7 +27,6 @@ videos:
 apps:
     favorites_group_index: 1
 
-# todo add
 app-exposer:
-    url: http://app-exposer
+    url: http://app-exposer:60009
     user: dashboard-aggregator
